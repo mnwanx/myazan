@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			Azan
+			My Azan
 		</title>
 		<script src="https://kit.fontawesome.com/286587f19c.js" crossorigin="anonymous"></script>
 	</head>
